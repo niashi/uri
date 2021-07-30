@@ -4,7 +4,7 @@
 
 • 📂 Dividido em pastas que correspondem a algumas categorias de problemas (Iniciante, Strings etc).
 
-• ✏️ Cada exercício apresenta a introdução do que deve ser feito, conforme o que consta no site.
+• ✏️ Cada exercício contém uma introdução do que deve ser feito, conforme o que consta no site.
 
 • 📄 O arquivo 'stdin' simula os inputs e estes já são capturados automaticamente em cada arquivo de exercício.
 _________________________________________________________________________________________________________________________________________________________________________________
