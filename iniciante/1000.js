@@ -1,5 +1,10 @@
+/*
+Bem-vindo ao URI Online Judge!
+
+O seu primeiro programa em qualquer linguagem de programação normalmente é o "Hello World!". Neste primeiro problema tudo o que você precisa fazer é imprimir esta mensagem na tela.
+*/
+
 var input = require('fs').readFileSync('stdin', 'utf8')
+var lines = input.split(' ');
 
-var [x, y] = input.split(' ').map(item => parseInt(item))
-
-console.log(typeof x)
+console.log('Hello World!')
